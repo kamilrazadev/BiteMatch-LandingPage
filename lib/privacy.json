@@ -1,0 +1,170 @@
+[
+ {
+  "t": "h1",
+  "x": "Privacy Policy"
+ },
+ {
+  "t": "h2",
+  "x": "Introduction"
+ },
+ {
+  "t": "p",
+  "x": "BiteMatch LLC (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our BiteMatch application and related services."
+ },
+ {
+  "t": "h2",
+  "x": "Information We Collect"
+ },
+ {
+  "t": "h2",
+  "x": "Information You Provide"
+ },
+ {
+  "t": "ul",
+  "items": [
+   "Food descriptions and cooking questions you submit",
+   "Photos of food you upload (processed temporarily, not stored)",
+   "Meal preferences and cooking style selections",
+   "Usage history and recommendation preferences (stored locally)"
+  ]
+ },
+ {
+  "t": "h2",
+  "x": "Automatically Collected Information"
+ },
+ {
+  "t": "ul",
+  "items": [
+   "Device information (browser type, operating system)",
+   "Usage analytics (features used, session duration)",
+   "Technical data (IP address, error logs)",
+   "Performance metrics (response times, success rates)"
+  ]
+ },
+ {
+  "t": "h2",
+  "x": "How We Use Your Information"
+ },
+ {
+  "t": "ul",
+  "items": [
+   "Provide AI-powered cooking recommendations and food analysis",
+   "Improve our artificial intelligence models and recommendation accuracy",
+   "Analyze usage patterns to enhance user experience",
+   "Provide customer support and respond to inquiries",
+   "Send important updates about service changes or new features",
+   "Ensure security and prevent fraud or abuse"
+  ]
+ },
+ {
+  "t": "h2",
+  "x": "Data Storage and Security"
+ },
+ {
+  "t": "h2",
+  "x": "Local Storage"
+ },
+ {
+  "t": "p",
+  "x": "Your recommendation history and preferences are stored locally on your device. This data remains private and is not transmitted to our servers unless you explicitly share recommendations."
+ },
+ {
+  "t": "h2",
+  "x": "Image Processing"
+ },
+ {
+  "t": "p",
+  "x": "Food photos you upload are processed temporarily for AI analysis and are not permanently stored on our servers. Images are automatically deleted after processing."
+ },
+ {
+  "t": "h2",
+  "x": "Security Measures"
+ },
+ {
+  "t": "ul",
+  "items": [
+   "Encryption of data in transit using HTTPS",
+   "Secure API connections with authentication",
+   "Regular security audits and updates",
+   "Limited data retention policies"
+  ]
+ },
+ {
+  "t": "h2",
+  "x": "Third-Party Services"
+ },
+ {
+  "t": "ul",
+  "items": [
+   "Access: You can view all data stored locally on your device",
+   "Deletion: You can clear your history and data at any time",
+   "Portability: You can export your recommendation history",
+   "Opt-out: You can disable analytics and data collection",
+   "Correction: You can modify or update your preferences"
+  ]
+ },
+ {
+  "t": "h2",
+  "x": "Children's Privacy"
+ },
+ {
+  "t": "p",
+  "x": "BiteMatch is designed for users 13 years and older. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately."
+ },
+ {
+  "t": "h2",
+  "x": "Changes to This Privacy Policy"
+ },
+ {
+  "t": "p",
+  "x": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the “Last updated” date. Continued use of the service after changes constitutes acceptance of the new policy."
+ },
+ {
+  "t": "h2",
+  "x": "Contact Us"
+ },
+ {
+  "t": "p",
+  "x": "If you have any questions about this Privacy Policy or our data practices, please contact us:"
+ },
+ {
+  "t": "p",
+  "x": "Email: privacy@bitematch.com"
+ },
+ {
+  "t": "p",
+  "x": "Address: BiteMatch LLC, [Your Business Address]"
+ },
+ {
+  "t": "p",
+  "x": "Response Time: We aim to respond to all privacy inquiries within 48 hours"
+ },
+ {
+  "t": "h2",
+  "x": "CONTACT US"
+ },
+ {
+  "t": "p",
+  "x": "If you have any query in your mind let us know!"
+ },
+ {
+  "t": "p",
+  "x": "Name"
+ },
+ {
+  "t": "p",
+  "x": "Phone"
+ },
+ {
+  "t": "p",
+  "x": "Email"
+ },
+ {
+  "t": "p",
+  "x": "Message"
+ },
+ {
+  "t": "p",
+  "x": "Send"
+ }
+]
