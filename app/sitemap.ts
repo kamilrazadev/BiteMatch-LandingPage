@@ -9,3 +9,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE}/terms-of-service`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
   ];
 }
+
